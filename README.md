@@ -1,11 +1,15 @@
 <h1 align="center">Hiyaa!!! 👋, I'm @SwethaKJ7</h1>
 <h3 align="center">Code is my canvas, creativity is my brush</h3>
 
+<img align="right" src="cutebear2.gif" width="45%"></img>
+
 - 🌱 I’m currently learning **React,Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SwethaKJ7/](https://github.com/SwethaKJ7/)
 
 - 📫 How to reach me **bhoovipai7@gmail.com**
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swethakj7&label=Profile%20views&color=0e75b6&style=flat" alt="swethakj7" /> </p>
 
