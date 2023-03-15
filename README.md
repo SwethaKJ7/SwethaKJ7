@@ -1,7 +1,7 @@
 <h1 align="center">Hiyaa!!! 👋, I'm @SwethaKJ7</h1>
 <h3 align="center">Code is my canvas, creativity is my brush</h3>
 
-<img align="right" src="cutebear2.gif" width="45%"></img>
+<img align="right" src="cutebear2.gif" ></img>
 
 - 🌱 I’m currently learning **React,Node.js**
 
