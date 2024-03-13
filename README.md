@@ -3,7 +3,7 @@
 
 <img align="right" src="cutebear2.gif" ></img>
 
-- 🌱 I’m currently learning **React,Node.js**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SwethaKJ7/](https://github.com/SwethaKJ7/)
 
